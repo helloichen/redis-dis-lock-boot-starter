@@ -14,7 +14,7 @@
     <version>1.0.0</version>
 
     <name>redis-lock-boot-stater</name>
-    <url>http://www.example.com</url>
+    <url>https://github.com/helloichen/redis-dis-lock-boot-starter.git</url>
 
     <scm>
         <url>${project.url}</url>
@@ -32,6 +32,9 @@
         <developer>
             <name>iChen</name>
             <email>helloichen@163.com</email>
+        </developer>
+        <developer>
+            <name>zzyang</name>
         </developer>
     </developers>
     <distributionManagement>
