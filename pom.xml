@@ -10,8 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.helloichen</groupId>
-    <artifactId>redis-dis-lock-boot-stater</artifactId>
-    <version>1.0.0</version>
+    <artifactId>redis-dis-lock-boot-stater</artifactId><version>1.0.0</version>
 
     <name>redis-lock-boot-stater</name>
     <url>https://github.com/helloichen/redis-dis-lock-boot-starter.git</url>
